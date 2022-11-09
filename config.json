@@ -1,9 +1,6 @@
 {
 	"ip":"MINING_ARCADE.aternos.me",
-	"port": "25710",
+	"port": "38641",
 	"name": "afkbot1",
-	"auto-night-skip":"false",
-	"login-enabled":"true",
-	"register-cmd":"/register FIREBALL252423",
-	"login-cmd":"/login YMEMELOS"
+	"auto-night-skip":"true"
 }
